@@ -11,6 +11,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { ApiService } from './service/api.service';
 import { FormsModule, ReactiveFormsModule  } from '@angular/forms';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
